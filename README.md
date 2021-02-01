@@ -1,4 +1,4 @@
-# Handwritten Digit recognizer
+# Handwritten Digit Recognizer
 
 This project contains a handwritten digit recognizer. The digit recognition is done by training a machine learning model based on the [MNIST handwritten digit dataset](http://yann.lecun.com/exdb/mnist/). The project als contains a graphical user interface for drawing digits, which can subsequently predict the drawn digit based on the trained machine learning model.
 
